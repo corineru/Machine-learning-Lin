@@ -1,2 +1,2 @@
 # Machine-learning-Lin
-This is the homework of the course ML
+This is the homework of the <machine learning foundation>.
